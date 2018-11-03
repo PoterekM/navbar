@@ -11,11 +11,11 @@
 }
 
 #icon {
-    max-width: 100px;
+    max-width: 150px;
     height: auto;
     padding: auto;
     overflow: hidden;
-    align-content: center;
+    float: left;
 }
 
 .navbar span {
@@ -26,8 +26,6 @@
         text-align: center;
         border: 3px solid green;
         padding: 10px;
-        vertical-align: center;
-        top: 50%;
 }
 
 
