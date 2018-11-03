@@ -1,0 +1,37 @@
+
+.navbar {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    border: 3px solid green;
+    padding: 10px;
+    vertical-align: center;
+    
+}
+
+#icon {
+    max-width: 100px;
+    height: auto;
+    padding: auto;
+    overflow: hidden;
+    align-content: center;
+}
+
+.navbar span {
+        display: inline-block;
+        margin: auto;
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        border: 3px solid green;
+        padding: 10px;
+        vertical-align: center;
+        top: 50%;
+}
+
+
+.navbar button {
+    padding: 10px;
+    margin: 10px;
+}
